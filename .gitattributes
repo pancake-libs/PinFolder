@@ -1,0 +1,5 @@
+# 改行の扱い（ソース・文書は LF。build.bat は Shift_JIS・CRLF のまま変えない）
+* text=auto eol=lf
+*.bat -text
+*.ico binary
+*.png binary

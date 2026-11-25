@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- PinFolder の通知領域アイコン（24px 以上の詳しい形）。案 2：磁石に吸い付くタブ -->
+  <!-- 上の小窓 2 つ（吸い寄せられる窓） -->
+  <rect x="4" y="2" width="15" height="10" rx="1.5" fill="#FFFFFF" stroke="#455A64" stroke-width="1.5"/>
+  <rect x="4" y="2" width="15" height="3" rx="1.5" fill="#455A64"/>
+  <rect x="29" y="2" width="15" height="10" rx="1.5" fill="#FFFFFF" stroke="#455A64" stroke-width="1.5"/>
+  <rect x="29" y="2" width="15" height="3" rx="1.5" fill="#455A64"/>
+  <!-- U 字の磁石 -->
+  <path d="M12 21 V30 A12 12 0 0 0 36 30 V21" fill="none" stroke="#B71C1C" stroke-width="10"/>
+  <path d="M12 21 V30 A12 12 0 0 0 36 30 V21" fill="none" stroke="#D32F2F" stroke-width="7"/>
+  <!-- 先端 -->
+  <rect x="7" y="15" width="10" height="7" fill="#B0BEC5" stroke="#78909C" stroke-width="1"/>
+  <rect x="31" y="15" width="10" height="7" fill="#B0BEC5" stroke="#78909C" stroke-width="1"/>
+</svg>
